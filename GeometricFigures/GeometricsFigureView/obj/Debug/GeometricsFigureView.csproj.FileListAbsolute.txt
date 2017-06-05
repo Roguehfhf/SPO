@@ -1,0 +1,15 @@
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.exe.config
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.exe
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.pdb
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\ru\GeometricsFigureView.resources.dll
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.csprojResolveAssemblyReference.cache
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.AddFigureForm.resources
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Properties.Resources.resources
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.AddFigureForm.ru.resources
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.csproj.GenerateResource.Cache
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\ru\GeometricsFigureView.resources.dll
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.exe
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.pdb
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.MainForm.resources
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricFigures.dll
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricFigures.pdb
