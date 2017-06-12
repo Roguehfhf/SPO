@@ -13,3 +13,6 @@ C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\Geometrics
 C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.MainForm.resources
 C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricFigures.dll
 C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricFigures.pdb
+C:\Users\Siste\Documents\SPO\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.exe.config
+C:\Users\Siste\Documents\SPO\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.exe
+C:\Users\Siste\Documents\SPO\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.pdb
