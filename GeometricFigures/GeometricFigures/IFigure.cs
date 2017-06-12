@@ -9,7 +9,7 @@ namespace GeometricFigures
     /// <summary>
     /// Интерфейс геометрической фигуры.
     /// </summary>
-    public interface INterfaceFigures
+    public interface IFigures 
     {
         /// <summary>
         /// Получение площади фигуры.
