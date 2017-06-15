@@ -1,0 +1,27 @@
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\UnitTest\bin\Debug\GeometricFigures.dll
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\UnitTest\bin\Debug\GeometricFigures.pdb
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\UnitTest\bin\Debug\GeometricFigures.dll
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\UnitTest\bin\Debug\GeometricFigures.pdb
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\UnitTest\bin\Debug\GeometricFigures.dll
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\UnitTest\bin\Debug\GeometricFigures.pdb
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\UnitTest\obj\Debug\UnitTest.pdb
